@@ -5,7 +5,7 @@
          Hello!
         </title>
         <body>
-           <h1>Hello World!you are idiots!!</h1> 
+           <h1 style="color:blue;">Hello World!you are idiots!!</h1> 
             bye bye
         
         </body>
